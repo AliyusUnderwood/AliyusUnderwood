@@ -20,13 +20,9 @@ Hello! I'm Aliyus Underwood, I'm 21 years old, and I'm an entry-level web develo
 - **Version Control**: Git, GitHub
 - **Other Tools**: npm, Webpack, Babel, Box Icons, dotenv
 
-### Education
-- Hs Diploma
-- Nursing (Home Care Worker)
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliyusUnderwood&show_icons=true&theme=tokyonight&title_color=f7f7f7&text_color=f7f7f7&bg_color=242424&cache_seconds=1800&locale=en&layout=compact" alt="AliyusUnderwood" /></p>
 
-### Certifications
-
-- University of Oregon Coding Boot Camp Graduate
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliyusUnderwood&show_icons=true&theme=tokyonight&title_color=f7f7f7&text_color=f7f7f7&bg_color=1c1c1c&cache_seconds=1800&locale=en" alt="AliyusUnderwood" /></p>
 
 ### Contact Information
 
