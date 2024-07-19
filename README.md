@@ -6,7 +6,9 @@
 
 Hello! I'm Aliyus Underwood, I'm 21 years old, and I'm an entry-level web developer passionate about creating dynamic and user-friendly web applications. I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and have experience with various other technologies. I'm eager to contribute my skills to innovative projects and continue growing as a developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyusUnderwood)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliyusUnderwood&show_icons=true&theme=tokyonight&title_color=f7f7f7&text_color=f7f7f7&bg_color=242424&cache_seconds=1800&locale=en&layout=compact" alt="AliyusUnderwood" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliyusUnderwood&show_icons=true&theme=tokyonight&title_color=f7f7f7&text_color=f7f7f7&bg_color=1c1c1c&cache_seconds=1800&locale=en" alt="AliyusUnderwood" /></p>
 
 ### Technical Skills
 
@@ -19,10 +21,6 @@ Hello! I'm Aliyus Underwood, I'm 21 years old, and I'm an entry-level web develo
 - **CSS Frameworks**: Tailwind CSS
 - **Version Control**: Git, GitHub
 - **Other Tools**: npm, Webpack, Babel, Box Icons, dotenv
-
-p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliyusUnderwood&show_icons=true&theme=tokyonight&title_color=f7f7f7&text_color=f7f7f7&bg_color=242424&cache_seconds=1800&locale=en&layout=compact" alt="AliyusUnderwood" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliyusUnderwood&show_icons=true&theme=tokyonight&title_color=f7f7f7&text_color=f7f7f7&bg_color=1c1c1c&cache_seconds=1800&locale=en" alt="AliyusUnderwood" /></p>
 
 ### Contact Information
 
