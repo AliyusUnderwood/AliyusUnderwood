@@ -1,10 +1,9 @@
-## What's Up Brother ☝️
-
-## Web Developer
+<h1 align="center">What's Up Brother ☝️, I'm Aliyus Underwood</h1>
+<h3 align="center">Web Developer</h3>
 
 ### About Me
 
-Hello! I'm Aliyus Underwood, I'm 21 years old, and I'm an entry-level web developer passionate about creating dynamic and user-friendly web applications. I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and have experience with various other technologies. I'm eager to contribute my skills to innovative projects and continue growing as a developer.
+I'm 21 years old, and I'm an entry-level web developer passionate about creating dynamic and user-friendly web applications. I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and have experience with various other technologies. I'm eager to contribute my skills to innovative projects and continue growing as a developer.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliyusUnderwood&show_icons=true&theme=tokyonight&title_color=f7f7f7&text_color=f7f7f7&bg_color=242424&cache_seconds=1800&locale=en&layout=compact" alt="AliyusUnderwood" /></p>
 
