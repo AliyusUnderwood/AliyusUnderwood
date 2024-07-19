@@ -6,6 +6,8 @@
 
 Hello! I'm Aliyus Underwood, I'm 21 years old, and I'm an entry-level web developer passionate about creating dynamic and user-friendly web applications. I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and have experience with various other technologies. I'm eager to contribute my skills to innovative projects and continue growing as a developer.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyusUnderwood)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Technical Skills
 
 - **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+), jQuery
