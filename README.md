@@ -5,9 +5,9 @@
 
 I'm 21 years old, and I'm an entry-level web developer passionate about creating dynamic and user-friendly web applications. I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack and have experience with various other technologies. I'm eager to contribute my skills to innovative projects and continue growing as a developer.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliyusUnderwood&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000033,000066,000080&cache_seconds=1800&locale=en&layout=compact" alt="AliyusUnderwood" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AliyusUnderwood&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&cache_seconds=1800&locale=en&layout=compact" alt="AliyusUnderwood" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliyusUnderwood&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000033,000066,000080&cache_seconds=1800&locale=en" alt="AliyusUnderwood" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AliyusUnderwood&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&cache_seconds=1800&locale=en" alt="AliyusUnderwood" /></p>
 
 ### Technical Skills
 <p align="left">
