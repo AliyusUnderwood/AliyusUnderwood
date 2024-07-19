@@ -1,6 +1,6 @@
 ## What's Up Brother ☝️
 
-## MERN Stack Developer
+## Web Developer
 
 ### About Me
 
